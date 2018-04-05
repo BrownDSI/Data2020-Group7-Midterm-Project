@@ -1,5 +1,4 @@
-## Data2020_Midterm
-### Member
+## Member
 - Kunyu Zhang
 - Tong Zhang
 - Li Zhu
