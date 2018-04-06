@@ -21,6 +21,6 @@ We wanted to answer these questions after studying and visualizing this data.
 # Analysis
 
 ## Visualization
-[map](https://https://automating-gis-processes.github.io/Data2020-Group7-Midterm-Project-kzhang49/index.html)
+[map](https://https://kzhang49.github.io/Data2020-Group7-Midterm-Project/index.html)
 
  
