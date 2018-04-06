@@ -20,8 +20,5 @@ We wanted to answer these questions after studying and visualizing this data.
 
 # Analysis
 
-## Visualization
-[map](https://github.com/kzhang49/Data2020-Group7-Midterm-Project/blob/master/docs/index.html)
-
  
 
