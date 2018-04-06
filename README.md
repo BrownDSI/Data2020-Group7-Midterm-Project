@@ -12,7 +12,7 @@ Our data is a census tracts in New York City. It shows the income level, total p
 
 We wanted to answer these questions after studying and visualizing this data.
 
-# Exploratory 
+# Exploratory Analysis
 
 
 # Methodology
