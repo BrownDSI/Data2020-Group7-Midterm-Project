@@ -21,7 +21,7 @@ We wanted to answer these questions after studying and visualizing this data.
 # Analysis
 
 # Visualization
-[map](https://kzhang49.github.io/Data2020-Group7-Midterm-Project/blob/master/map.html)
+[map](https://kzhang49.github.io/Data2020-Group7-Midterm-Project/map.html)
 
  
 
